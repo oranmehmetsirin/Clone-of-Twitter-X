@@ -11,3 +11,5 @@ In this time-consuming project created with all the details in mind,
 Extensive JavaScript has been used along with HTML and CSS. You can examine how API requests are received and transferred to the interface in JavaScript files.
 
 Please take a look at the image of the project below.
+
+![Animation](https://github.com/oranmehmetsirin/Clone-of-Twitter-X/blob/main/gif.gif?raw=true)
